@@ -179,33 +179,52 @@
   bees
   
   fertelizer
-    - compost
-    - Worm farm
-    - Bio digester
-    - bio reactor
+  - compost
+  - Worm farm
+  - Bio digester
+  - bio reactor
 
 
 ## land
+
   10–20 acres
+  
   hay rotation and graze rotation
 
+
 ## workshop
+  
   rocket stove
+  
   gas stove
+  
   Solar furnace
+  
   smokehouse
+  
   storage
+
   
 ## workers
+  
   cattle - mowing, fertilizer
+  
   chickens - mowing, bugs, tilling, disposal
+  
   ducks - mowing, bugs
+  
   geese - mowing / crop safe
+  
   goats - mosing, clear brush, fertilizer
+  
   guinea - bugs
+  
   pigs - mowing, till, disposal
+  
   sheep - mowing, fertilizer
+  
   turkeys - mowing, bugs, disposal
+  
   rabbits - mowing, fertilizer
   
   
