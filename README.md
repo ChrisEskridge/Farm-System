@@ -84,7 +84,6 @@
   At least 25% of your food should be raised on your property
   
   dexter cows - mowing
-  
   - Dexter cows need 5000 lbs of supplemental feed per year and 1 acre of grazing [~5 round bales]
   - 1 breeding pairs per person at 1 calf per pair for 1 calf per year at 200 lbs each for 200 lbs [need ~100 lbs]
     
