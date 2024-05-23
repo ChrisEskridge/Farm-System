@@ -73,8 +73,8 @@
 ## water
   
   well
-    - filter
-    - uv light
+  - filter
+  - uv light
   
   pond
 
@@ -88,20 +88,20 @@
   - 1 breeding pairs per person at 1 calf per pair for 1 calf per year at 200 lbs each for 200 lbs [need ~100 lbs]
     
   chickens - tilling
-    - laying hens need 100 lbs of feed per year and boilers need about 20 lbs total [~2 lbs a week for ~8 weeks] [~100 lbs per year]
-    - 7 breeding pairs per person at 8 chicks per pair for 56 broilers per year at 2 lbs each for 112 lbs [need ~100 lbs]
-    - 2 laying hens per person for 500 eggs per year [need ~300 eggs]
+  - laying hens need 100 lbs of feed per year and boilers need about 20 lbs total [~2 lbs a week for ~8 weeks] [~100 lbs per year]
+  - 7 breeding pairs per person at 8 chicks per pair for 56 broilers per year at 2 lbs each for 112 lbs [need ~100 lbs]
+  - 2 laying hens per person for 500 eggs per year [need ~300 eggs]
   
   garden
   
   greenhouse
-    - thermal batteries
+  - thermal batteries
   
   food forrest
-    - overstory
-    - understory
-    - shurb layer
-    - herbaceous layer
+  - overstory
+  - understory
+  - shurb layer
+  - herbaceous layer
     - root layer
     - ground cover
     - vine layer
