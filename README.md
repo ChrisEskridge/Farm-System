@@ -1,11 +1,11 @@
 # farm-system
 
-## zone
+## garden zone
 
   8a
 
 
-## needs
+## human needs
 
   3 mins without air
   
@@ -24,7 +24,7 @@
 
 ## permaculture zones
   
-  zone 0 (): house/relax — 
+  zone 0 (): house/relax
   
   zone 1 (daily maintenance): yard/live — herbs, edible flowers, living fence, small garden 
   
@@ -91,92 +91,95 @@
   - laying hens need 100 lbs of feed per year and boilers need about 20 lbs total [~2 lbs a week for ~8 weeks] [~100 lbs per year]
   - 7 breeding pairs per person at 8 chicks per pair for 56 broilers per year at 2 lbs each for 112 lbs [need ~100 lbs]
   - 2 laying hens per person for 500 eggs per year [need ~300 eggs]
+  - hoop coop
   
   garden
   
   greenhouse
   - thermal batteries
+  - hoop house
   
   food forrest
   - overstory
+    - black walnut
+    - chestnut
+    - hickory
+    - Pecans
+    - oak/acorn
   - understory
+    - Peaches
+    - apple
+    - pear
+    - Plum
+    - Fig
+    - Kiwifruit
+    - mulberry
+    - persimmon
+    - Nectarines
+    - Pawpaw
+    - cherry
+    - black cherry
+    - bamboo
+    - loquat
+    - Hazelnut
   - shurb layer
+    - blueberry
+    - Raspberry
+    - Blackberry
+    - elderberry
+    - Prickly pear
+    - Rosemary
+    - Zucchini
+    - Sage
+    - Thyme
   - herbaceous layer
-    - root layer
-    - ground cover
-    - vine layer
-    - native
-      - Muscadines
-      - Pawpaw
-      - elderberry
-      - blueberry
-      - persimmon
-      - dandelion
-      - onion grass
-      - comfrey
-      - bamboo
-      - mulberry
-      - black cherry
-      - apple
-      - pear
-      - cherry
-      - acorn
-      - black walnut
-      - hickory
-      - chestnut
-      - Ginseng
-      - Blackberry
-      - Raspberry
-      - Chickweed
-      - Strawberries
-      - Plum
-      - Fig
-      - Kiwifruit
-      - Pecans
-      - Peaches
-      - Nectarines
-      - Sweet Corn
-      - Prickly pear
-      - Rosemary
-      - Artichoke
-      - Asparagus
-    - Not checked
-      - Beans
-      - bee balm
-      - chamomile
-      - Mint
-      - garlic
-      - Garlic chives
-      - Grape
-      - Hazelnut
-      - Horseradish
-      - Jerusalem Artichoke
-      - Lavender
-      - lemon balm
-      - loquat
-      - Ginger
-      - Onion chive
-      - Oregano
-      - Saffron
-      - Sage
-      - Peppercorn
-      - Scallion
-      - Tarragon
-      - Thyme
-      - Wintergreen
-      - Sweet potato
-    - Annual
-      - Cucumber
-      - Onion
-      - Pumpkin
-      - Tomatos
-      - Watermelon
-      - Zucchini
-      - Squash
-    - Biennial
-      - Carrot
+    - dandelion
+    - onion grass
+    - Asparagus
+    - Jerusalem Artichoke
+    - comfrey
+    - Artichoke
+    - Sweet Corn
+    - Zucchini
+    - bee balm
+    - Lavender
+    - Mint
+    - Garlic chives
+    - Scallion
+    - Oregano
+    - Saffron
+    - Tarragon
+  - root layer
+    - Ginseng
+    - Carrot (Biennial)
+    - Onion
+    - Ginger
+    - garlic
+    - Horseradish
+    - potato
+  - ground cover
+    - Strawberries
+    - Chickweed
+    - Watermelon
+    - Pumpkin
+    - Sweet potato
+    - chamomile
+  - climbing vine layer
+    - Muscadines
+    - Tomatos
+    - Squash
+    - Cucumber
+    - Beans
+    - Grape
+    - Peppercorn
+   
+    - need more nitrogen fixers and chop and drops
+    
       
   bees
+  - honey bee hives
+  - carpenter bee hotel
+  - wild flowers
   
   fertelizer
   - compost
@@ -207,25 +210,52 @@
   
 ## workers
   
-  cattle - mowing, fertilizer
+  cattle
+  - mowing
+  - fertilizer
   
-  chickens - mowing, bugs, tilling, disposal
+  chickens
+  - mowing
+  - bugs
+  - tilling
+  - disposal
   
-  ducks - mowing, bugs
+  ducks
+  - mowing
+  - bugs
   
-  geese - mowing / crop safe
+  geese
+  - mowing
+  - crop safe
   
-  goats - mosing, clear brush, fertilizer
+  goats
+  - mosing
+  - clear brush
+  - fertilizer
   
-  guinea - bugs
+  guinea
+  - bugs
   
-  pigs - mowing, till, disposal
+  pigs
+  - mowing
+  - till
+  - disposal
   
-  sheep - mowing, fertilizer
+  sheep
+  - mowing
+  - fertilizer
   
-  turkeys - mowing, bugs, disposal
+  turkeys
+  - mowing
+  - bugs
+  - disposal
   
-  rabbits - mowing, fertilizer
+  rabbits
+  - mowing
+  - fertilizer
+
+  donkey
+  -security
   
   
 
