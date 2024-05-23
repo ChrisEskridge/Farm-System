@@ -85,8 +85,8 @@
   
   dexter cows - mowing
   
-    - Dexter cows need 5000 lbs of supplemental feed per year and 1 acre of grazing [~5 round bales]
-    - 1 breeding pairs per person at 1 calf per pair for 1 calf per year at 200 lbs each for 200 lbs [need ~100 lbs]
+    * Dexter cows need 5000 lbs of supplemental feed per year and 1 acre of grazing [~5 round bales]
+    * 1 breeding pairs per person at 1 calf per pair for 1 calf per year at 200 lbs each for 200 lbs [need ~100 lbs]
     
   chickens - tilling
     - laying hens need 100 lbs of feed per year and boilers need about 20 lbs total [~2 lbs a week for ~8 weeks] [~100 lbs per year]
